@@ -18,4 +18,4 @@ Gitにできること
 GitHubは，Gitの仕組みを利用したウェブサービスの名称です．
 
 # 2. GitHubに慣れる
-[Git_seminar]()のIssuesに
+[Git_seminar](https://github.com/Corufa/Git_seminar)のIssuesに
