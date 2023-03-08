@@ -7,6 +7,6 @@ GitHubによる演習を交えながらGitの仕組みを学びます．
 Windows : コマンドプロンプト，Windows PowerShell  
 Mac : ターミナル
 
-# 1. GitHubに慣れる
+# 1. Git とは
 
 # 2. GitHubに慣れる
