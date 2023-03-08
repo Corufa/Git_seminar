@@ -16,3 +16,6 @@ Gitにできること
 
 # 2. GitHubとは
 GitHubは，Gitの仕組みを利用したウェブサービスの名称です．
+
+# 2. GitHubに慣れる
+[Git_seminar]()のIssuesに
